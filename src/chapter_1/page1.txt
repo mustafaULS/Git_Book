@@ -1,6 +1,8 @@
 hello world .
 
+
 welcome to GitHub world.
 
-learning java is cool.
+
+learning java is cool!
 
