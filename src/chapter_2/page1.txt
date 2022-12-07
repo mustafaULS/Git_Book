@@ -1,0 +1,5 @@
+hello world
+
+this is second day of git & github.
+
+just do it . :)
