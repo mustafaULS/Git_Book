@@ -7,3 +7,6 @@ mokoko
 
 adding more text
 updating 
+
+
+practice some pull function.
