@@ -6,6 +6,8 @@ public class testCase01 {
 
 
         System.out.println( " hello world");
+
+        System.out.println(" java testing in github");
     }
 
 
