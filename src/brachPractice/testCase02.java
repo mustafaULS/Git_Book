@@ -6,5 +6,7 @@ public class testCase02 {
 
         System.out.println(" this is test case 2 ");
 
+        System.out.println(" this is some update in test case 2 ");
+
     }
 }
